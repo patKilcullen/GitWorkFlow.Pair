@@ -2,6 +2,7 @@ body {
   /* your styles here */
   font-family: fantasy;
   color: maroon;
+  border: 2px dashed blue
 }
 
 h1,
